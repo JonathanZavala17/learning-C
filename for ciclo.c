@@ -21,6 +21,5 @@ int main(){
 		printf("\n %i. No debo saltarme las clases de C",j);
 	}
 	
-	
 	return 0;
 }
